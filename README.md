@@ -8,13 +8,13 @@ Prática com PostgreSQL, incluindo consultas avançadas, joins, agregações, su
 
 ## 🎯 Objetivo
 
-Aprimorar o domínio em SQL com foco em PostgreSQL, fortalecendo habilidades essenciais para o desenvolvimento back-end, como escrita de consultas eficientes, modelagem de dados e otimização de performance.
+Aprimorar o domínio em SQL com foco em PostgreSQL, fortalecendo habilidades essenciais para desenvolvimento back-end, como escrita de consultas eficientes, modelagem de dados e otimização de performance.
 
 ## 🛠 Tecnologias
 
 - **PostgreSQL**
 - SQL (DDL, DML, DQL)
-- pgAdmin (ou ferramenta de sua preferência)
+- pgAdmin
 
 ## 📁 Estrutura do Repositório
 
@@ -22,15 +22,14 @@ Aprimorar o domínio em SQL com foco em PostgreSQL, fortalecendo habilidades ess
 /
 ├── README.md
 ├── exercicios/
-│   ├── secao-01/          # Introdução e comandos básicos
-│   ├── secao-02/          # DDL e DML
-│   ├── secao-03/          # SELECT, WHERE, ORDER BY
-│   ├── secao-04/          # Joins
-│   ├── secao-05/          # Agregações e GROUP BY
-│   ├── secao-06/          # Subqueries e CTEs
-│   ├── secao-07/          # Window Functions
-│   └── projetos/          # Projetos finais do curso
+│   ├── secao-01/
+│   ├── secao-02/
+│   ├── secao-03/
+│   ├── secao-04/
+│   ├── secao-05/
+│   ├── secao-06/
+│   ├── secao-07/
+│   └── projetos/
 ├── notas/
-│   └── secao-*.md         # Anotações teóricas
-├── datasets/              # Scripts de criação de tabelas e inserts (se aplicável)
-└── imagens/               # Prints de resultados e diagramas
+├── datasets/
+└── imagens/
